@@ -2,7 +2,7 @@
 
 > Repos I want to read/test code of
 
-All code I work with is in [~/src](https://github.com/nikitavoloboev#src). All forks in [~/forks](https://github.com/nikitavoloboev/forks).
+All code I work with is in [~/src](https://github.com/nikitavoloboev#src). All forks in [~/forks](https://github.com/nikitavoloboev/forks). I try things in [~/try](https://github.com/nikitavoloboev/try). Active tests in [~/test](https://github.com/nikitavoloboev/test).
 
 At end of month, stale (non opened clones for a month) get moved to [~/past](https://github.com/nikitavoloboev/past) as archives sorted by month.
 
