@@ -1,6 +1,6 @@
 # Clones
 
-> Repos I read/test code of
+> Repos I cloned
 
 I have system that will move opened cloned repo to [~/forks](https://github.com/nikitavoloboev/forks) fast. Alongside making a branch + opening PR on parent repo.
 
